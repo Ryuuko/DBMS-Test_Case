@@ -1,0 +1,200 @@
+city,city_ascii,lat,lng,country,iso2,iso3,admin_name,capital,population,id
+Tokyo,Tokyo,35.685,139.7514,Japan,JP,JPN,T??ky??,primary,35676000,1392685764
+??saka,Osaka,34.75,135.4601,Japan,JP,JPN,??saka,admin,11294000,1392419823
+Bangkok,Bangkok,13.75,100.5166,Thailand,TH,THA,Krung Thep Maha Nakhon,primary,6704000,1764068610
+Yokohama,Yokohama,35.32,139.58,Japan,JP,JPN,Kanagawa,admin,3697894,1392118339
+Pyongyang,Pyongyang,39.0194,125.7547,"Korea, North",KP,PRK,P?€?y??ngyang,primary,3300000,1408738594
+Nagoya,Nagoya,35.155,136.915,Japan,JP,JPN,Aichi,admin,3230000,1392407472
+Fukuoka,Fukuoka,33.595,130.41,Japan,JP,JPN,Fukuoka,admin,2792000,1392576294
+Sapporo,Sapporo,43.075,141.34,Japan,JP,JPN,Hokkaid??,admin,2544000,1392000195
+Sendai,Sendai,38.2871,141.0217,Japan,JP,JPN,Miyagi,admin,2250000,1392457903
+Hiroshima,Hiroshima,34.3878,132.4429,Japan,JP,JPN,Hiroshima,admin,2045000,1392373695
+Ky??to,Kyoto,35.03,135.75,Japan,JP,JPN,Ky??to,admin,1805000,1392622735
+K??be,Kobe,34.68,135.17,Japan,JP,JPN,Hy??go,admin,1528478,1392978082
+Kawanakajima,Kawanakajima,35.53,139.705,Japan,JP,JPN,Kanagawa,,1437266,1392879600
+Namp?€?o,Namp'o,38.7669,125.4524,"Korea, North",KP,PRK,,admin,1127000,1408892768
+Amman,Amman,31.95,35.9333,Jordan,JO,JOR,Al ?€??€??imah,primary,1060000,1400522593
+Kitaku,Kitaku,33.8704,130.82,Japan,JP,JPN,Fukuoka,,997536,1392129541
+Hamamatsu,Hamamatsu,34.7181,137.7327,Japan,JP,JPN,Shizuoka,,977023,1392174500
+Naha,Naha,26.2072,127.673,Japan,JP,JPN,Okinawa,admin,905238,1392583118
+Az Zarq???€?,Az Zarqa',32.07,36.1,Jordan,JO,JOR,Az Zarq???€?,admin,894691,1400161837
+Okayama,Okayama,34.672,133.9171,Japan,JP,JPN,Okayama,admin,866092,1392954750
+Hamh??ng,Hamhung,39.9101,127.5454,"Korea, North",KP,PRK,Hamnam,admin,773000,1408482040
+H??ngnam,Hungnam,39.8231,127.6232,"Korea, North",KP,PRK,Hamnam,,751322,1408328889
+Kumamoto,Kumamoto,32.8009,130.7006,Japan,JP,JPN,Kumamoto,admin,718232,1392106283
+Shizuoka,Shizuoka,34.9858,138.3854,Japan,JP,JPN,Shizuoka,admin,701561,1392235505
+Ch?€???ngjin,Ch'ongjin,41.7846,129.79,"Korea, North",KP,PRK,Hambuk,minor,672614,1408498177
+Utsunomiya,Utsunomiya,36.55,139.87,Japan,JP,JPN,Tochigi,admin,667752,1392506125
+Irbid,Irbid,32.55,35.85,Jordan,JO,JOR,Irbid,admin,650000,1400221568
+Nagano,Nagano,36.65,138.17,Japan,JP,JPN,Nagano,admin,594311,1392603439
+Hachi??ji,Hachioji,35.6577,139.3261,Japan,JP,JPN,T??ky??,,579399,1392172935
+Niigata,Niigata,37.92,139.04,Japan,JP,JPN,Niigata,admin,569797,1392913753
+Kagoshima,Kagoshima,31.586,130.5611,Japan,JP,JPN,Kagoshima,admin,555352,1392120675
+Kanazawa,Kanazawa,36.56,136.64,Japan,JP,JPN,Ishikawa,admin,551249,1392684679
+??tsu,Otsu,35.0064,135.8674,Japan,JP,JPN,Shiga,admin,536976,1392164106
+Matsuyama,Matsuyama,33.8455,132.7658,Japan,JP,JPN,Ehime,admin,533541,1392220893
+Tsu,Tsu,34.7171,136.5167,Japan,JP,JPN,Mie,admin,500000,1392082102
+??ita,Oita,33.2432,131.5979,Japan,JP,JPN,??ita,admin,448907,1392081193
+Tokushima,Tokushima,34.0674,134.5525,Japan,JP,JPN,Tokushima,admin,443760,1392795984
+Wakayama,Wakayama,34.2231,135.1677,Japan,JP,JPN,Wakayama,admin,440006,1392907296
+Nagasaki,Nagasaki,32.765,129.885,Japan,JP,JPN,Nagasaki,admin,435455,1392162566
+Gifu,Gifu,35.4231,136.7628,Japan,JP,JPN,Gifu,admin,412895,1392097787
+Sunch?€???n,Sunch'on,39.4236,125.939,"Korea, North",KP,PRK,P?€?y??ngnam,,400629,1408510801
+Chiang Mai,Chiang Mai,18.8,98.98,Thailand,TH,THA,Chiang Mai,admin,397211,1764662886
+Samut Prakan,Samut Prakan,13.6069,100.6115,Thailand,TH,THA,Samut Prakan,admin,388920,1764159228
+Iwaki,Iwaki,37.0553,140.89,Japan,JP,JPN,Fukushima,,357309,1392158088
+Asahikawa,Asahikawa,43.755,142.38,Japan,JP,JPN,Hokkaid??,,356612,1392380358
+Mito,Mito,36.3704,140.48,Japan,JP,JPN,Ibaraki,admin,353892,1392665227
+Maebashi,Maebashi,36.3927,139.0727,Japan,JP,JPN,Gunma,admin,344871,1392333295
+Tamuramachi-moriyama,Tamuramachi-moriyama,37.41,140.38,Japan,JP,JPN,Fukushima,,340560,1392675180
+Kaes??ng,Kaesong,37.964,126.5644,"Korea, North",KP,PRK,Hwangnam,minor,338155,1408725697
+Kawagoe,Kawagoe,35.9177,139.4911,Japan,JP,JPN,Saitama,,337931,1392825080
+K??chi,Kochi,33.5624,133.5375,Japan,JP,JPN,K??chi,admin,335570,1392086071
+Nakhon Ratchasima,Nakhon Ratchasima,15,102.1,Thailand,TH,THA,Nakhon Ratchasima,admin,334984,1764752197
+Takamatsu,Takamatsu,34.3447,134.0448,Japan,JP,JPN,Kagawa,admin,334223,1392427161
+Toyama,Toyama,36.7,137.23,Japan,JP,JPN,Toyama,admin,332812,1392000560
+W??nsan,Wonsan,39.1605,127.4308,"Korea, North",KP,PRK,Kangw??n,admin,329207,1408692125
+Miyazaki,Miyazaki,31.9182,131.4184,Japan,JP,JPN,Miyazaki,admin,324384,1392216224
+Akita,Akita,39.71,140.09,Japan,JP,JPN,Akita,admin,320069,1392129688
+Hat Yai,Hat Yai,6.9964,100.4714,Thailand,TH,THA,Songkhla,minor,317954,1764161022
+Hakodate,Hakodate,41.795,140.74,Japan,JP,JPN,Hokkaid??,,302984,1392708558
+Kanggye,Kanggye,40.9732,126.6032,"Korea, North",KP,PRK,Chagang,admin,299514,1408728939
+Aomori,Aomori,40.825,140.71,Japan,JP,JPN,Aomori,admin,298394,1392083898
+Morioka,Morioka,39.72,141.13,Japan,JP,JPN,Iwate,admin,295172,1392981957
+Fukushima,Fukushima,37.74,140.47,Japan,JP,JPN,Fukushima,admin,294237,1392570027
+Sin??iju,Sinuiju,40.0859,124.4213,"Korea, North",KP,PRK,P?€?y??ngbuk,admin,288112,1408740449
+Ubon Ratchathani,Ubon Ratchathani,15.25,104.83,Thailand,TH,THA,Ubon Ratchathani,admin,273893,1764611048
+Yamagata,Yamagata,38.2705,140.32,Japan,JP,JPN,Yamagata,admin,272209,1392300081
+Nonthaburi,Nonthaburi,13.8337,100.4833,Thailand,TH,THA,Nonthaburi,admin,258550,1764667935
+Khon Kaen,Khon Kaen,16.42,102.83,Thailand,TH,THA,Khon Kaen,admin,251056,1764003406
+Fukui,Fukui,36.0704,136.22,Japan,JP,JPN,Fukui,admin,248707,1392897510
+Udon Thani,Udon Thani,17.4048,102.7893,Thailand,TH,THA,Udon Thani,admin,247231,1764676047
+Shinozaki,Shinozaki,33.9654,130.9454,Japan,JP,JPN,Fukuoka,,245786,1392516557
+Hachimanch??,Hachimancho,40.51,141.54,Japan,JP,JPN,Aomori,,239046,1392220933
+Sato,Sato,33.1631,129.7177,Japan,JP,JPN,Nagasaki,,237444,1392043131
+Nakhon Si Thammarat,Nakhon Si Thammarat,8.4,99.97,Thailand,TH,THA,Nakhon Si Thammarat,admin,232335,1764409111
+Hyesan,Hyesan,41.3927,128.1927,"Korea, North",KP,PRK,Yanggang,admin,227461,1408642146
+Chon Buri,Chon Buri,13.4004,101,Thailand,TH,THA,Chon Buri,admin,226618,1764202077
+Minami??zuma,Minamiozuma,36.2404,137.97,Japan,JP,JPN,Nagano,,224926,1392373962
+Haeju,Haeju,38.0394,125.7144,"Korea, North",KP,PRK,Hwangnam,admin,224231,1408348983
+Lampang,Lampang,18.2916,99.4813,Thailand,TH,THA,Lampang,admin,204081,1764081847
+Ashino,Ashino,42.975,144.3747,Japan,JP,JPN,Hokkaid??,,198566,1392810778
+K??fu,Kofu,35.6504,138.5833,Japan,JP,JPN,Yamanashi,admin,197540,1392307565
+Kure,Kure,34.251,132.5656,Japan,JP,JPN,Hiroshima,,196991,1392991987
+Naka,Naka,37.4504,138.86,Japan,JP,JPN,Niigata,,195318,1392479949
+Kimch?€?aek-si,Kimch'aek-si,40.6723,129.2027,"Korea, North",KP,PRK,Hambuk,minor,187270,1408037150
+Manp?€?o,Manp'o,41.1454,126.2958,"Korea, North",KP,PRK,Chagang,,186827,1408334845
+Si Racha,Si Racha,13.159,100.9287,Thailand,TH,THA,Chon Buri,minor,178916,1764003327
+??biraki,Obiraki,40.57,140.47,Japan,JP,JPN,Aomori,,174972,1392794397
+Takaoka,Takaoka,42.6504,141.55,Japan,JP,JPN,Hokkaid??,,174806,1392760442
+Beppuch??,Beppucho,42.9304,143.17,Japan,JP,JPN,Hokkaid??,,173890,1392712158
+Takaoka,Takaoka,36.67,137,Japan,JP,JPN,Toyama,,170077,1392754231
+Phitsanulok,Phitsanulok,16.8283,100.2729,Thailand,TH,THA,Phitsanulok,admin,164017,1764140981
+Surat Thani,Surat Thani,9.1501,99.3401,Thailand,TH,THA,Surat Thani,admin,157627,1764338230
+Matsue,Matsue,35.467,133.0666,Japan,JP,JPN,Shimane,admin,156811,1392692238
+Muroran,Muroran,42.35,140.98,Japan,JP,JPN,Hokkaid??,,155676,1392259868
+Sariw??n,Sariwon,38.507,125.762,"Korea, North",KP,PRK,Hwangbuk,admin,154942,1408018673
+Pathum Thani,Pathum Thani,14.0171,100.5333,Thailand,TH,THA,Pathum Thani,admin,154412,1764434288
+Tottori,Tottori,35.5004,134.2333,Japan,JP,JPN,Tottori,,154098,1392416969
+Pattani,Pattani,6.864,101.25,Thailand,TH,THA,Pattani,admin,150000,1764277891
+Yala,Yala,6.5505,101.2851,Thailand,TH,THA,Yala,admin,148140,1764430323
+Trang,Trang,7.5634,99.608,Thailand,TH,THA,Trang,admin,147820,1764343817
+Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,14.3588,100.5684,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,admin,145615,1764002329
+Otaru,Otaru,43.1887,140.9783,Japan,JP,JPN,Hokkaid??,,143792,1392240421
+Ch??ngju,Chongju,39.6813,125.2163,"Korea, North",KP,PRK,P?€?y??ngbuk,,141769,1408650871
+Phuket,Phuket,7.8765,98.3815,Thailand,TH,THA,Phuket,admin,141618,1764327831
+As Sal??,As Salt,32.0392,35.7272,Jordan,JO,JOR,Al Balq???€?,admin,140689,1400470384
+Nakhon Pathom,Nakhon Pathom,13.818,100.064,Thailand,TH,THA,Nakhon Pathom,admin,117927,1764251992
+Chiang Rai,Chiang Rai,19.9119,99.8265,Thailand,TH,THA,Chiang Rai,admin,117127,1764748484
+K??ench??,Koencho,43.8504,143.9,Japan,JP,JPN,Hokkaid??,,113137,1392099278
+Nakhon Sawan,Nakhon Sawan,15.7,100.07,Thailand,TH,THA,Nakhon Sawan,admin,111915,1764821078
+Ratchaburi,Ratchaburi,13.5419,99.8215,Thailand,TH,THA,Ratchaburi,admin,106996,1764773366
+Nong Khai,Nong Khai,17.8733,102.7479,Thailand,TH,THA,Nong Khai,admin,104505,1764279113
+Sakata,Sakata,38.92,139.8501,Japan,JP,JPN,Yamagata,,100446,1392418961
+Chanthaburi,Chanthaburi,12.6133,102.0979,Thailand,TH,THA,Chanthaburi,admin,99819,1764151688
+Al ?€?Aqabah,Al `Aqabah,29.527,35.0777,Jordan,JO,JOR,Al ?€?Aqabah,admin,95048,1400618058
+Phetchaburi,Phetchaburi,13.1133,99.9412,Thailand,TH,THA,Phetchaburi,admin,90497,1764000534
+Chumphon,Chumphon,10.5127,99.1872,Thailand,TH,THA,Chumphon,admin,85686,1764012939
+Nan,Nan,18.7868,100.7715,Thailand,TH,THA,Nan,admin,82483,1764061223
+Al Karak,Al Karak,31.1851,35.7047,Jordan,JO,JOR,Al Karak,admin,80062,1400073941
+Prachin Buri,Prachin Buri,14.0572,101.3768,Thailand,TH,THA,Prachin Buri,admin,79757,1764262472
+Uttaradit,Uttaradit,17.6316,100.0972,Thailand,TH,THA,Uttaradit,admin,76630,1764146253
+Sakon Nakhon,Sakon Nakhon,17.1679,104.1479,Thailand,TH,THA,Sakon Nakhon,admin,76237,1764476362
+Saraburi,Saraburi,14.5304,100.88,Thailand,TH,THA,Sara Buri,admin,70769,1764111243
+Narathiwat,Narathiwat,6.4318,101.8214,Thailand,TH,THA,Narathiwat,admin,68112,1764748532
+Kanchanaburi,Kanchanaburi,14.0174,99.522,Thailand,TH,THA,Kanchanaburi,admin,63699,1764455558
+Samut Sakhon,Samut Sakhon,13.536,100.274,Thailand,TH,THA,Samut Sakhon,admin,63498,1764502057
+Surin,Surin,14.8868,103.4915,Thailand,TH,THA,Surin,admin,62536,1764813179
+Kamphaeng Phet,Kamphaeng Phet,16.473,99.529,Thailand,TH,THA,Kamphaeng Phet,admin,58787,1764367755
+Chaiyaphum,Chaiyaphum,15.804,102.0386,Thailand,TH,THA,Chaiyaphum,admin,58350,1764784757
+Lop Buri,Lop Buri,14.804,100.6186,Thailand,TH,THA,Lop Buri,admin,57761,1764574750
+Al Mafraq,Al Mafraq,32.2833,36.2333,Jordan,JO,JOR,Al Mafraq,admin,57118,1400040712
+Nakhon Phanom,Nakhon Phanom,17.3945,104.7695,Thailand,TH,THA,Nakhon Phanom,admin,55377,1764103547
+Kalasin,Kalasin,16.428,103.509,Thailand,TH,THA,Kalasin,admin,55102,1764060973
+Suphan Buri,Suphan Buri,14.471,100.129,Thailand,TH,THA,Suphan Buri,admin,53399,1764759549
+Maha Sarakham,Maha Sarakham,16.184,103.298,Thailand,TH,THA,Maha Sarakham,admin,51584,1764568961
+Phetchabun,Phetchabun,16.419,101.159,Thailand,TH,THA,Phetchabun,admin,50656,1764518331
+Ma?€???n,Ma`an,30.192,35.736,Jordan,JO,JOR,Ma?€???n,admin,50350,1400670443
+Chachoengsao,Chachoengsao,13.679,101.076,Thailand,TH,THA,Chachoengsao,admin,49741,1764632382
+Songkhla,Songkhla,7.21,100.56,Thailand,TH,THA,Songkhla,admin,48616,1764543650
+Buri Ram,Buri Ram,15.0004,103.1166,Thailand,TH,THA,Buriram,admin,47292,1764141031
+Si Sa Ket,Si Sa Ket,15.1203,104.3298,Thailand,TH,THA,Sisaket,admin,44751,1764002764
+Phatthalung,Phatthalung,7.615,100.081,Thailand,TH,THA,Phatthalung,admin,43522,1764240863
+Roi Et,Roi Et,16.051,103.655,Thailand,TH,THA,Roi Et,admin,39328,1764216668
+Phrae,Phrae,18.1533,100.1629,Thailand,TH,THA,Phrae,admin,38538,1764209592
+Rayong,Rayong,12.6718,101.2815,Thailand,TH,THA,Rayong,admin,37035,1764920057
+Phichit,Phichit,16.439,100.349,Thailand,TH,THA,Phichit,admin,35760,1764024236
+Loei,Loei,17.4919,101.7315,Thailand,TH,THA,Loei,admin,35273,1764996883
+Samut Songkhram,Samut Songkhram,13.413,100.001,Thailand,TH,THA,Samut Songkhram,admin,35065,1764305010
+Satun,Satun,6.6167,100.0667,Thailand,TH,THA,Satun,admin,34544,1764836023
+Prachuap Khiri Khan,Prachuap Khiri Khan,11.803,99.8,Thailand,TH,THA,Prachuap Khiri Khan,admin,33521,1764877766
+Tak,Tak,16.8847,99.1293,Thailand,TH,THA,Tak,admin,33146,1764055292
+Krabi,Krabi,8.052,98.912,Thailand,TH,THA,Krabi,admin,31219,1764587855
+A?? ??af??lah,At Tafilah,30.8333,35.6,Jordan,JO,JOR,A?? ??af??lah,admin,25429,1400134505
+Ranong,Ranong,9.962,98.638,Thailand,TH,THA,Ranong,admin,24561,1764623795
+Uthai Thani,Uthai Thani,15.3819,100.0264,Thailand,TH,THA,Uthai Thani,admin,22219,1764844835
+Yasothon,Yasothon,15.788,104.151,Thailand,TH,THA,Yasothon,admin,21643,1764520637
+Trat,Trat,12.237,102.509,Thailand,TH,THA,Trat,admin,21590,1764126822
+Nakhon Nayok,Nakhon Nayok,14.2,101.216,Thailand,TH,THA,Nakhon Nayok,admin,21309,1764068248
+Phayao,Phayao,19.1707,99.9083,Thailand,TH,THA,Phayao,admin,21058,1764291128
+Sing Buri,Sing Buri,14.887,100.401,Thailand,TH,THA,Sing Buri,admin,20046,1764482111
+Chai Nat,Chai Nat,15.179,100.126,Thailand,TH,THA,Chai Nat,admin,15469,1764848732
+Lamphun,Lamphun,18.503,99.074,Thailand,TH,THA,Lamphun,admin,14030,1764104264
+Ang Thong,Ang Thong,14.5833,100.45,Thailand,TH,THA,Ang Thong,admin,13738,1764529940
+Sukhothai,Sukhothai,17.0119,99.7515,Thailand,TH,THA,Sukhothai,admin,10276,1764175777
+Phangnga,Phangnga,8.451,98.534,Thailand,TH,THA,Phangnga,admin,9676,1764855952
+Mae Hong Son,Mae Hong Son,19.301,97.969,Thailand,TH,THA,Mae Hong Son,admin,9109,1764090874
+Saitama,Saitama,35.9,139.65,Japan,JP,JPN,Saitama,admin,,1392017719
+Chiba,Chiba,35.6,140.1167,Japan,JP,JPN,Chiba,admin,,1392107144
+Nara,Nara,34.6833,135.8333,Japan,JP,JPN,Nara,admin,,1392520831
+P?€?y??ngs??ng,P'yongsong,39.2464,125.8719,"Korea, North",KP,PRK,P?€?y??ngnam,admin,,1408000381
+M??dab??,Madaba,31.716,35.7939,Jordan,JO,JOR,Ma?€?dab??,admin,,1400962992
+Jarash,Jarash,32.2808,35.8993,Jordan,JO,JOR,Jarash,admin,,1400505859
+Saga,Saga,33.2333,130.3,Japan,JP,JPN,Saga,admin,,1392618841
+?€?Ajl??n,`Ajlun,32.3333,35.7528,Jordan,JO,JOR,?€?Ajl??n,admin,,1400775371
+Tottori,Tottori,35.5,134.2333,Japan,JP,JPN,Tottori,admin,,1392675192
+Rajin,Rajin,42.2556,130.2831,"Korea, North",KP,PRK,Nas??n,admin,,1408449973
+Yamaguchi,Yamaguchi,34.1833,131.4667,Japan,JP,JPN,Yamaguchi,admin,,1392887215
+Mukdahan,Mukdahan,16.5453,104.7235,Thailand,TH,THA,Mukdahan,admin,,1764994534
+Nong Bua Lamphu,Nong Bua Lamphu,17.2041,102.4407,Thailand,TH,THA,Nong Bua Lamphu,admin,,1764333285
+Amnat Charoen,Amnat Charoen,15.8585,104.6288,Thailand,TH,THA,Amnat Charoen,admin,,1764038011
+Sa Kaeo,Sa Kaeo,13.8141,102.0722,Thailand,TH,THA,Sa Kaeo,admin,,1764207048
+Bueng Kan,Bueng Kan,18.363,103.6519,Thailand,TH,THA,Bueng Kan,admin,,1764944006
+Tsuruoka,Tsuruoka,38.7004,139.8302,Japan,JP,JPN,Yamagata,,99820,1392935450
+Maizuru,Maizuru,35.4504,135.3333,Japan,JP,JPN,Ky??to,,92465,1392353780
+Kaneyama,Kaneyama,31.3833,130.85,Japan,JP,JPN,Kagoshima,,82335,1392748014
+Namsan,Namsan,42.2304,129.2304,"Korea, North",KP,PRK,Hambuk,minor,80146,1408000884
+Munch?€???n,Munch'on,39.3813,127.2517,"Korea, North",KP,PRK,Kangw??n,,73619,1408134393
+Ongjin,Ongjin,37.9371,125.3571,"Korea, North",KP,PRK,Hwangnam,,69195,1408748147
+P?€?y??ngsan,P'yongsan,38.3367,126.3866,"Korea, North",KP,PRK,Hwangbuk,,66260,1408433221
+S??nbong,Sonbong,42.3377,130.4027,"Korea, North",KP,PRK,Nas??n,minor,60864,1408519732
+Hua Hin,Hua Hin,12.5697,99.9443,Thailand,TH,THA,Prachuap Khiri Khan,minor,50456,1764352388
+Changy??n,Changyon,38.2517,125.1021,"Korea, North",KP,PRK,Hwangnam,,48984,1408800916
+Mae Sot,Mae Sot,16.7162,98.5708,Thailand,TH,THA,Tak,minor,45781,1764198529
+Thung Song,Thung Song,8.154,99.7286,Thailand,TH,THA,Nakhon Si Thammarat,minor,28223,1764422992
+Aranyaprathet,Aranyaprathet,13.6824,102.4969,Thailand,TH,THA,Sa Kaeo,minor,22472,1764167237
+Sil-li,Sil-li,39.488,125.464,"Korea, North",KP,PRK,P?€?y??ngnam,,19463,1408623890
+Bua Yai,Bua Yai,15.584,102.4186,Thailand,TH,THA,Nakhon Ratchasima,minor,18269,1764992879
+Ch?€?osan-??p,Ch'osan-up,40.8255,125.8008,"Korea, North",KP,PRK,Chagang,,7786,1408838898
+P?€?ungsan,P'ungsan,40.8175,128.1553,"Korea, North",KP,PRK,Yanggang,,3839,1408098792
+Tae-dong,Tae-dong,40.6171,125.4501,"Korea, North",KP,PRK,P?€?y??ngbuk,,1884,1408763732
